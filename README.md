@@ -1,6 +1,7 @@
 # WebCrawler
 
 Webscraper built to scrape details off of Newsweek and Puma and store to JSON.
+Built with Typescript and puppeteer
 
 ## Usage
 
