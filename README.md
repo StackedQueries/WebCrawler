@@ -48,6 +48,7 @@ NewsWeek:
 
 ## Improvements todo
 
+- Tests
 - Clustering for scaling
   - Containerization
 - Message Queue for getting jobs into workers
